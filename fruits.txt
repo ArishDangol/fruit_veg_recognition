@@ -1,0 +1,54 @@
+Apple
+Apricot
+Avocado
+Avocado ripe
+Banana
+Beetroot
+Blueberry
+Carambula
+Cauliflower
+Chestnut
+Cocos
+Corn
+Cucumber Ripe
+Dates
+Eggplant
+Fig
+Ginger Root
+Grape Blue
+Grape Pink
+Grape White
+Grape White 2
+Guava
+Hazelnut
+Huckleberry
+Kiwi
+Lemon
+Limes
+Lychee
+Mango
+Mulberry
+Onion Red Peeled
+Onion White
+Orange
+Papaya
+Peach
+Pear
+Pear Forelle
+Pepper Green
+Pepper Orange
+Pepper Red
+Pepper Yellow
+Pineapple
+Pineapple Mini
+Pitahaya Red
+Plum
+Pomegranate
+Potato Red
+Potato White
+Raspberry
+Strawberry
+Tomato 2
+Tomato Cherry Red
+Walnut
+Watermelon
