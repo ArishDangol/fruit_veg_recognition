@@ -136,6 +136,11 @@ ENV/
 env.bak/
 venv.bak/
 
+fruit_env
+
+
+
+
 # Spyder project settings
 .spyderproject
 .spyproject
